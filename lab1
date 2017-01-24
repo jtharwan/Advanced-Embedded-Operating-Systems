@@ -2,6 +2,6 @@ b *0xf0100040
 
 c
 
-I r
+i r
 
 x/8x esp
